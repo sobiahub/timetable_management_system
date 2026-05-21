@@ -33,6 +33,28 @@ This project helps users manage class timetables and exam datesheets easily.
 - CSS
 - JavaScript
 
+
+  # Screenshots
+
+## Login Page
+![Login Page](screenshots\login.PNG)
+
+## Signup Page
+![Signup Page](screenshots\signup.PNG)
+
+## Dashboard
+![Dashboard](screenshots\hero.PNG)
+![Dashboard](screenshots\features.PNG)
+![Dashboard](screenshots\howtowork.PNG)
+
+## Timetable Management
+![Timetable](screenshots\timetable.PNG)
+
+## Date Sheet Management
+![Datesheet](screenshots\datesheet.PNG)
+
+**Author**
+Developed by Sobia
 ---
 
 # How to Run the Project
@@ -52,26 +74,3 @@ composer install
 
 **Run the Project**
 php -S localhost:8000
-
-**Author**
-Developed by Sobia
-
-
-# Screenshots
-
-## Login Page
-![Login Page](screenshots\login.PNG)
-
-## Signup Page
-![Signup Page](screenshots\signup.PNG)
-
-## Dashboard
-![Dashboard](screenshots\hero.PNG)
-![Dashboard](screenshots\features.PNG)
-![Dashboard](screenshots\howtowork.PNG)
-
-## Timetable Management
-![Timetable](screenshots\timetable.PNG)
-
-## Date Sheet Management
-![Datesheet](screenshots\datesheet.PNG)
