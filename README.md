@@ -60,10 +60,10 @@ Developed by Sobia
 # Screenshots
 
 ## Login Page
-![Login Page](screenshots/login.PNG)
+![Login Page](screenshots\login.PNG)
 
 ## Signup Page
-![Signup Page](screenshots/signup.PNG)
+![Signup Page](screenshots\signup.PNG)
 
 ## Dashboard
 ![Dashboard](screenshots\hero.PNG)
