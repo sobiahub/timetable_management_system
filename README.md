@@ -37,21 +37,21 @@ This project helps users manage class timetables and exam datesheets easily.
   # Screenshots
 
 ## Login Page
-![Login Page](screenshots\login.PNG)
+![Login Page](screenshots/login.PNG)
 
 ## Signup Page
-![Signup Page](screenshots\signup.PNG)
+![Signup Page](screenshots/signup.PNG)
 
 ## Dashboard
-![Dashboard](screenshots\hero.PNG)
-![Dashboard](screenshots\features.PNG)
-![Dashboard](screenshots\howtowork.PNG)
+![Dashboard](screenshots/hero.PNG)
+![Dashboard](screenshots/features.PNG)
+![Dashboard](screenshots/howtowork.PNG)
 
 ## Timetable Management
-![Timetable](screenshots\timetable.PNG)
+![Timetable](screenshots/timetable.PNG)
 
 ## Date Sheet Management
-![Datesheet](screenshots\datesheet.PNG)
+![Datesheet](screenshots/datesheet.PNG)
 
 **Author**
 Developed by Sobia
