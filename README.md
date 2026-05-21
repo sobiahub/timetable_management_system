@@ -55,3 +55,23 @@ php -S localhost:8000
 
 **Author**
 Developed by Sobia
+
+
+# Screenshots
+
+## Login Page
+![Login Page](screenshots/login.PNG)
+
+## Signup Page
+![Signup Page](screenshots/signup.PNG)
+
+## Dashboard
+![Dashboard](screenshots\hero.PNG)
+![Dashboard](screenshots\features.PNG)
+![Dashboard](screenshots\howtowork.PNG)
+
+## Timetable Management
+![Timetable](screenshots\timetable.PNG)
+
+## Date Sheet Management
+![Datesheet](screenshots\datesheet.PNG)
